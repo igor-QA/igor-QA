@@ -11,6 +11,7 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/igor-pavlov13/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
 	<a href="https://t.me/travel_qa"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" target="_blank"/></a>
+	<a href="https://www.instagram.com/pavlov_ig/"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" target="_blank"/></a>
 </p>
 <a href="https://github.com/igor-QA/VSK_Project">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=igor-QA&show_icons=true&include_all_commits=true&theme=tokyonight&&count_private=true" alt="VSK_Project"/>
