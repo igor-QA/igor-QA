@@ -11,20 +11,20 @@
 <img width="4%" title="Allure Report" src="logo/Docker.svg">**Docker**
 <img width="4%" title="Allure Report" src="logo/Selenoid.svg">**Selenoid**
 <img width="4%" title="Allure Report" src="logo/GitHub.svg">**GitHub**
-<img src="https://img.icons8.com/color/38/000000/gitlab.png"/>**GitLab**
+<img src="https://img.icons8.com/color/36/000000/gitlab.png"/>**GitLab**
 
 <img width="4%" title="Allure Report" src="logo/Intelij_IDEA.svg">**Intelij_IDEA**
 <img width="4%" title="Allure Report" src="logo/JUnit5.svg">**JUnit5**
 <img width="4%" title="Allure Report" src="logo/Java.svg">**Java**
 <img width="4%" title="Allure Report" src="logo/Jenkins.svg">**Jenkins**
 <img width="4%" title="Allure Report" src="logo/Rest-Assured.svg">**Rest-Assured**
-<img src="https://img.icons8.com/officel/38/000000/selenium-test-automation.png"/>**Selenium**
+<img src="https://img.icons8.com/officel/36/000000/selenium-test-automation.png"/>**Selenium**
 <img width="4%" title="Allure Report" src="logo/Selenide.svg">**Selenide**
 <img width="4%" title="Allure Report" src="logo/Jira.svg">**Jira**
-<img src="https://img.icons8.com/color/38/000000/kibana.png"/>**Kibana** 
+<img src="https://img.icons8.com/color/36/000000/kibana.png"/>**Kibana** 
 
 <img width="4%" title="Allure Report" src="logo/Gradle.svg">**Gradle**
-<img src="https://img.icons8.com/ios/37/000000/maven-ios.png"/>**Maven**	
+<img src="https://img.icons8.com/ios/36/000000/maven-ios.png"/>**Maven**	
 
 ---
 
