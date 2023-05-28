@@ -21,6 +21,7 @@
 <img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/>**Selenium**
 <img width="4%" title="Allure Report" src="logo/Selenide.svg">**Selenide**
 <img width="4%" title="Allure Report" src="logo/Jira.svg">**Jira**
+
 <img width="4%" src="https://img.icons8.com/color/36/000000/kibana.png"/>**Kibana** 
 <img width="4%" title="Allure Report" src="logo/Gradle.svg">**Gradle**
 <img width="4%" src="https://img.icons8.com/ios/36/000000/maven-ios.png"/>**Maven**
