@@ -9,6 +9,7 @@
 <img width="4%" title="Allure Report" src="logo/Appium.svg">**Appium**
 <img width="4%" title="Allure Report" src="logo/Browserstack.svg">**Browserstack**
 <img width="4%" title="Allure Report" src="logo/Docker.svg">**Docker**
+<img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>**PostgreSQL** 
 <img width="4%" title="Allure Report" src="logo/Selenoid.svg">**Selenoid**
 <img width="4%" title="Allure Report" src="logo/GitHub.svg">**GitHub**
 <img width="4%" src="https://img.icons8.com/color/36/000000/gitlab.png"/>**GitLab**
@@ -23,7 +24,6 @@
 <img width="4%" src="https://img.icons8.com/color/36/000000/kibana.png"/>**Kibana** 
 <img width="4%" title="Allure Report" src="logo/Gradle.svg">**Gradle**
 <img width="4%" src="https://img.icons8.com/ios/36/000000/maven-ios.png"/>**Maven**
-<img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>**PostgreSQL** 
 
 
 ---
