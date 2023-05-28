@@ -19,20 +19,19 @@
 <img width="4%" title="Allure Report" src="logo/Jenkins.svg">**Jenkins**
 <img width="4%" title="Allure Report" src="logo/Rest-Assured.svg">**Rest-Assured**
 <img src="https://img.icons8.com/officel/36/000000/selenium-test-automation.png"/>**Selenium**
+
+<img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/>**Selenium**
+
 <img width="4%" title="Allure Report" src="logo/Selenide.svg">**Selenide**
 <img width="4%" title="Allure Report" src="logo/Jira.svg">**Jira**
 <img src="https://img.icons8.com/color/36/000000/kibana.png"/>**Kibana** 
+<img width="4%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/>**Kibana** 
 
 <img width="4%" title="Allure Report" src="logo/Gradle.svg">**Gradle**
 <img src="https://img.icons8.com/ios/36/000000/maven-ios.png"/>**Maven**	
 
+<img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>**PostgreSql** 
 
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 
 ---
 
